@@ -1,0 +1,122 @@
+{
+   "micrownet" : [
+      "biometry"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Biostatistics",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Group_size_measures\">Group size measures</a>",
+      "Biostatistics",
+      "http://www.merriam-webster.com/dictionary/biostatistics",
+      "\n<a href=\"http://duckduckgo.com/Quantitative_parasitology\">Quantitative parasitology</a>",
+      "biostatistics definition: statistics applied to the analysis of biological data.",
+      "\n<a href=\"http://duckduckgo.com/Health_indicator\">Health indicator</a> - Health indicators are quantifiable characteristics of a population which researchers use as supporting evidence for describing the health of a population.",
+      "\n<a href=\"http://duckduckgo.com/Biometrics_(journal)\">Biometrics (journal)</a> - Biometrics is a journal that publishes articles on the application of statistics and mathematics to the biological sciences.",
+      "\n<a href=\"http://duckduckgo.com/Biometrics\">Biometrics</a> - Biometrics (or biometric authentication) refers to the identification of humans by their characteristics or traits.",
+      "\n<a href=\"http://duckduckgo.com/c/Public_health\">Public health</a>",
+      "Biostatistics (a portmanteau of biology and statistics; sometimes referred to as biometry or biometrics) is the application of statistics to a wide range of topics in biology.",
+      "HASH(0x4e83f28)",
+      "\n<a href=\"http://duckduckgo.com/c/Demography\">Demography</a>",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/c/Biostatistics\">Biostatistics Category</a>",
+      "\n<a href=\"http://duckduckgo.com/Biostatistics_(journal)\">Biostatistics (journal)</a> - Biostatistics is a peer-reviewed scientific journal covering biostatistics, that is, statistics for biological and medical research.",
+      "HASH(0x4b9a4b8)",
+      "\n<a href=\"http://duckduckgo.com/c/Bioinformatics\">Bioinformatics</a>",
+      "A",
+      "Biostatistics (a portmanteau of biology and statistics; sometimes referred to as biometry or biometrics) is the application of statistics to a wide range of topics in biology."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_statistics_journals#Biostatistics"
+   ],
+   "created" : 1373462406,
+   "book" : [],
+   "micro-www" : {
+      "biometry" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Biostatistics|",
+         "Bioinformatics",
+         "Public health",
+         "Demography"
+      ],
+      "text" : "\n\n'Biostatistics' (a portmanteau of biology and statistics; sometimes referred to\nas 'biometry' or 'biometrics') is the application of statistics to a wide range\nof topics in biology. The science of biostatistics encompasses the design of\nbiological experiments, especially in medicine, agriculture and fishery; the\ncollection, summarization, and analysis of data from those experiments; and the\ninterpretation of, and inference from, the results. A major branch of this is\nmedical biostatistics,<ref></ref> which is exclusively concerned with medicine\nand health.\n",
+      "title" : "biostatistics",
+      "headings" : [
+         "Biostatistics and the history of biological thought",
+         "Education and training programs",
+         "Applications of biostatistics",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Statistics",
+      "2: Medicine",
+      "2: Genetics",
+      "2: Population_genetics",
+      "2: Epidemiology",
+      "2: Public_health",
+      "2: Clinical_trial",
+      "1: Biology",
+      "1: Experiment",
+      "1: Agriculture",
+      "1: Fishery",
+      "1: Gregor_Mendel",
+      "1: Darwinism",
+      "1: Walter_Frank_Raphael_Weldon",
+      "1: Karl_Pearson",
+      "1: Charles_Benedict_Davenport",
+      "1: William_Bateson",
+      "1: Wilhelm_Johannsen",
+      "1: Modern_evolutionary_synthesis",
+      "1: Ronald_Fisher",
+      "1: Sewall_G._Wright",
+      "1: J._B._S._Haldane",
+      "1: Mathematical_biology",
+      "1: Evolutionary_biology",
+      "1: D'Arcy_Thompson",
+      "1: Qualitative_data",
+      "1: Thomas_Hunt_Morgan",
+      "1: Friden,_Inc.",
+      "1: Caltech",
+      "1: Placer_mining",
+      "1: Postgraduate",
+      "1: United_States",
+      "1: Bioinformatics",
+      "1: Computational_biology",
+      "1: Quality_control",
+      "1: Economics",
+      "1: Health_services_research",
+      "1: Nutrition",
+      "1: Environmental_health",
+      "1: Statistical_genetics",
+      "1: Genotype",
+      "1: Phenotype",
+      "1: Animal_breeding",
+      "1: Gene",
+      "1: Alleles",
+      "1: Human_genetics",
+      "1: Genomics",
+      "1: Microarray",
+      "1: Proteomics",
+      "1: Ecology",
+      "1: Ecological_forecasting",
+      "1: Sequence_analysis",
+      "1: Systems_biology",
+      "1: Group_size_measures",
+      "1: Health_indicator",
+      "1: List_of_statistics_journals#Biostatistics",
+      "1: Quantitative_parasitology"
+   ]
+}
