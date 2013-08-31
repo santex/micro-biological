@@ -35,8 +35,8 @@ our %opts = (cache_file => sprintf("%s/%s_micro.cache","/tmp",$curSysDate),
              dir        => "/home/santex",
              match      => "",
              mime       => "json",
-             level=>4,
-             scope=>2);
+             level=>1,
+             scope=>1);
 
 GetOptions (\%opts, "cache_file=s", "mime=s","match=s","dir=s","level=i","scope=i");
 
